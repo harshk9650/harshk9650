@@ -1,3 +1,4 @@
+![GitHub Banner](https://raw.githubusercontent.com/harshk9650/harshk9650/main/banner_github.png)
 
 
 # Hello World!, I'm Harsh Kumar, a Indian Software Developer 👋🏼:
