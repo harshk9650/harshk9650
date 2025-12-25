@@ -11,11 +11,11 @@
 
 
 
-🛜 Building my personal portfolio  
-👨🏼‍🎓 CSE @ Lovely Professional University  
-👨🏼‍💻 Software Engineer | Automation Tester | DevOps Engineer  
-⚙️ CI/CD | Docker | Git | Linux | Automation  
-💻 Java | Python | JavaScript | SQL | Selenium | Docker | Git | TestNG | Maven
+🛜 Currently working on my own [Webpage](https://harsh2311.netlify.app)<br>
+👨🏼‍🎓Studying at Lovely Professional University CSE<br>
+👨🏼‍💻 Software Engineer | Automation Tester | DevOps Engineer  <br>
+⚙️ CI/CD | Docker | Git | Linux | Automation  <br>
+💻 Java | Python | JavaScript | SQL | Selenium | Docker | Git | TestNG | Maven<br>
 ⚙️ CI/CD | Docker | Git | Linux | Automation  
 
 
