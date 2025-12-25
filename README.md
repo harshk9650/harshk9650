@@ -1,7 +1,7 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="ChatGPT Image Dec 25, 2025, 10_27_35 PM.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Harsh Kumar, a Indian Software Developer 👋🏼:
-🛜 currently working on my own [webpage](https://avdeshjadon-dev.github.io/portfolio.github.io)<br>👨🏼‍🎓 studying computer science at Lovely Professional University<br>👨🏼‍💻 working as a Software developer since 2025 <br>🎬 just started out with my Passion  
+🛜 currently working on my own [webpage](https://harsh2311.netlify.app/#)<br>👨🏼‍🎓 studying computer science at Lovely Professional University<br>👨🏼‍💻 working as a Software developer since 2025 <br>🎬 just started out with my Passion  
 
 
 # 💻 Tech Stack:
