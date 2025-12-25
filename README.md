@@ -16,15 +16,6 @@
     alt="Typing SVG"
   />
 </p>
-<h2 align="center" style="
-color:#00bfff;
-text-shadow:
-1px 1px 0 #0a2540,
-2px 2px 0 #0a2540,
-3px 3px 6px rgba(0,191,255,0.6);
-">
-Building Reliable Software Through Code & Testing
-</h2>
 
 🛜 currently working on my own [webpage](https://harsh2311.netlify.app/#)<br>👨🏼‍🎓 studying computer science at Lovely Professional University<br>👨🏼‍💻 working as a Software developer since 2025 <br>🎬 just started out with my Passion  
 
