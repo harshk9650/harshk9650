@@ -1,7 +1,31 @@
 ![GitHub Banner](https://raw.githubusercontent.com/harshk9650/harshk9650/main/banner_github.png)
 
 
-# Hello World!, I'm Harsh Kumar, a Indian Software Developer 👋🏼:
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=32
+    &duration=3000
+    &pause=800
+    &color=00BFFF
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=Hello+World!+👋;Hi,+myself+Harsh+Kumar;Coder+%26+Automation+Tester"
+    alt="Typing SVG"
+  />
+</p>
+<h2 align="center" style="
+color:#00bfff;
+text-shadow:
+1px 1px 0 #0a2540,
+2px 2px 0 #0a2540,
+3px 3px 6px rgba(0,191,255,0.6);
+">
+Building Reliable Software Through Code & Testing
+</h2>
+
 🛜 currently working on my own [webpage](https://harsh2311.netlify.app/#)<br>👨🏼‍🎓 studying computer science at Lovely Professional University<br>👨🏼‍💻 working as a Software developer since 2025 <br>🎬 just started out with my Passion  
 
 
