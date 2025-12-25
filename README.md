@@ -1,4 +1,4 @@
-![GitHub Banner](https://raw.githubusercontent.com/harshk9650/harshk9650/main/banner_github.png)
+
 
 # Hello World!, I'm Harsh Kumar, a Indian Software Developer 👋🏼:
 🛜 currently working on my own [webpage](https://harsh2311.netlify.app/#)<br>👨🏼‍🎓 studying computer science at Lovely Professional University<br>👨🏼‍💻 working as a Software developer since 2025 <br>🎬 just started out with my Passion  
