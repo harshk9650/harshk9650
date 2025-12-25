@@ -2,25 +2,21 @@
 
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=32
-    &duration=3000
-    &pause=800
-    &color=00BFFF
-    &center=true
-    &vCenter=true
-    &width=900
-    &lines=Hello+World!+👋;Hi,+myself+Harsh+Kumar;Coder+%26+Automation+Tester"
-    <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Hello+World!+👋;Hi,+myself+Harsh+Kumar;Coder+%26+Automation+Tester" alt="Typing SVG" />
-</p>
-
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+Alliens!+%F0%9F%91%BD;Hi,+Myself+Harsh+Kumar;Coder+%26+Automation+Tester" 
+    alt="Typing SVG" 
   />
 </p>
 
-🛜 currently working on my own [webpage](https://harsh2311.netlify.app/#)<br>👨🏼‍🎓 studying computer science at Lovely Professional University<br>👨🏼‍💻 working as a Software developer since 2025 <br>🎬 just started out with my Passion  
+
+
+
+🛜 Building my personal portfolio  
+👨🏼‍🎓 CSE @ Lovely Professional University  
+👨🏼‍💻 Software Engineer | Automation Tester | DevOps Engineer  
+⚙️ CI/CD | Docker | Git | Linux | Automation  
+💻 Java | Python | JavaScript | SQL | Selenium | Docker | Git | TestNG | Maven
+⚙️ CI/CD | Docker | Git | Linux | Automation  
 
 
 # 💻 Tech Stack:
