@@ -13,7 +13,10 @@
     &vCenter=true
     &width=900
     &lines=Hello+World!+👋;Hi,+myself+Harsh+Kumar;Coder+%26+Automation+Tester"
-    alt="Typing SVG"
+    <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Hello+World!+👋;Hi,+myself+Harsh+Kumar;Coder+%26+Automation+Tester" alt="Typing SVG" />
+</p>
+
   />
 </p>
 
